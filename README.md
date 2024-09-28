@@ -1,6 +1,6 @@
 # NumBrain
 Handwritten predictive machine
-# MNIST-Predictor
+
 
 ## Overview
 
